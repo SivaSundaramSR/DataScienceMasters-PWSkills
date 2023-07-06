@@ -7,4 +7,3 @@ git commit -m "Datascience commit"
 git branch -M main
 git remote remove origin
 git remote add origin https://github.com/SivaSundaramSR/DataScienceMasters-PWSkills.git
-git push -u origin main
